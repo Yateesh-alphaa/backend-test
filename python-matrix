@@ -1,0 +1,4 @@
+Given a String with matrix representation, the task here is to write a python program that converts it to a matrix.
+Input : test_str = “[gfg,is],[best,for],[all,geeks]”
+
+Output : [[‘gfg’, ‘is’], [‘best’, ‘for’], [‘all’, ‘geeks’]]
