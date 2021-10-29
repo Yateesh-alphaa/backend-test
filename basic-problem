@@ -1,0 +1,7 @@
+A School hosted a contest and N students participated in it. The score of each student is given by an integer array arr[]. The task is to print the number of each student (indexes) in the order they appear on the scoreboard.
+A student with a maximum score appears first. If two people have the same score then a higher indexed student appears first.
+
+N = 5
+arr[] = {450, 230, 730, 230, 150}
+Output:
+3 1 4 2 5
